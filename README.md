@@ -1,5 +1,7 @@
 # High-Speed Computing using PySpark <br>
 
+Comparison of popular analysis methods, focusing on computational speed improvement
+
 **Project 1: IMDB dataset** <br>
 1. Loading, preprocessing and cleaning the data <br>
 2. Computing IMDb's ratings using high speed methods<br>
